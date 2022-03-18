@@ -1,4 +1,4 @@
-x=36
-tr=0
-eu=1
-print(x+(tr-eu))
+x=int(input('Birinci sayıyı giriniz')
+y=int(input('İkinci sayıyı giriniz')
+def topla(x,y):
+   print(x+y)
